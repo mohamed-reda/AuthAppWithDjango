@@ -1,0 +1,36 @@
+CMD
+
+change the directory of the partition in cmd
+
+d:
+
+------------------------------------------------------------------------------
+
+• cd (change down a directory):
+
+cd Desktop
+
+------------------------------------------------------------------------------
+
+• cd .. (change up a directory)
+
+go back
+
+------------------------------------------------------------------------------
+• ls (list files in your current directory on Mac)
+
+• dir (list files in your current directory on Windows)
+
+• pwd (print working directory)
+
+• mkdir (make directory)
+
+• touch (create a new file on Mac)
+
+
+
+
+ git add .gitignore   
+ git commit -m "ignored directory created."  
+
+
