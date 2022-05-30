@@ -18,10 +18,11 @@ create note Page:
 
 
 
+## Screenshot
+
+| logout |   <img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true" width="800" height="400"  />  |
 
 
-logout:
-<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true" width="800" height="400"  />  
 
 Notes for new User:
 <img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/notes%20for%20new%20user.png?raw=true" width="800" height="400"  />  
