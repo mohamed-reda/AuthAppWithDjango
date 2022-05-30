@@ -6,21 +6,54 @@ It has:
 - creating users and data 
 - dealing with ORMs and store the data using SQlite Database
 - creating a dynamic template
+- dealing with Django Admin
 - Django class-based files and static views, and so much more!
 
 
 create note Page:
-<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="800" height="300" />  
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="800" height="400" />  
 
 
-<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="800" height="300" />  
-
-https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true
-
-https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/notes%20for%20new%20user.png?raw=true
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="800" height="400" />  
 
 
-<img src=""  width="300" height="550" />  
+
+
+
+logout:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true" width="800" height="400"  />  
+
+Notes for new User:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/notes%20for%20new%20user.png?raw=true" width="800" height="400"  />  
+
+Notes Page:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/notes.png?raw=true" width="800" height="400"  />  
+
+signup Page:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/signup.png?raw=true" width="800" height="400"  />  
+
+single note:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/single%20note.png?raw=true" width="800" height="400"  />  
+
+login:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/the%20login.png?raw=true" width="800" height="400"  />  
+
+create note:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true" width="800" height="400"  />  
+
+edit with error:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/edit%20with%20error.png?raw=true" width="800" height="400"  />  
+
+edit without error
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/edit%20without%20error.png?raw=true" width="800" height="400"  />  
+
+dealing with Django Admin:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/admin.png?raw=true" width="800" height="400"  />  
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/admin2.png?raw=true" width="800" height="400"  />  
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/admin3.png?raw=true" width="800" height="400"  />  
+
+
+
 ## commands
 
 1 pipenv install django~=3.1.14 pip install django
