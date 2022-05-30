@@ -9,16 +9,16 @@ It has:
 - dealing with Django Admin
 - Django class-based files and static views, and so much more!
 
+## Screenshots
+
 
 create note Page:
+
 <img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="800" height="400" />  
 
 
 <img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="800" height="400" />  
 
-
-
-## Screenshot
 
 logout :  
 
