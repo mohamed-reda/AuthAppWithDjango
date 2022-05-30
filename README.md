@@ -10,10 +10,10 @@ It has:
 
 
 create note Page:
-<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="300" height="550" />  
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="800" height="300" />  
 
 
-<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="300" height="550" />  
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="800" height="300" />  
 
 https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true
 
