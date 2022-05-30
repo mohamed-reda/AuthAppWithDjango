@@ -1,3 +1,26 @@
+## Note app With Django Framwork
+
+Ths is a working system that can create, edit, and list books per user with an authentication system.
+
+It has:
+- creating users and data 
+- dealing with ORMs and store the data using SQlite Database
+- creating a dynamic template
+- Django class-based files and static views, and so much more!
+
+
+create note Page:
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/create%20note.png?raw=true"  width="300" height="550" />  
+
+
+<img src="https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/home.png?raw=true"  width="300" height="550" />  
+
+https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/logout.png?raw=true
+
+https://github.com/mohamed-reda/NoteAppWithDjango/blob/master/images/notes%20for%20new%20user.png?raw=true
+
+
+<img src=""  width="300" height="550" />  
 ## commands
 
 1 pipenv install django~=3.1.14 pip install django
