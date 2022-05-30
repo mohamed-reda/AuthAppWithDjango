@@ -1,8 +1,6 @@
-##commands
+## commands
 
-1
-pipenv install django~=3.1.14
-pip install django  
+1 pipenv install django~=3.1.14 pip install django
 
 ~= which will ensure security updates for Django, such as 3.1.1, 3.1.2, and so on.
 
@@ -40,7 +38,7 @@ django-admin startapp notes
 
 ------------------------------------------------------------------------------
 
-running Django’s local web server 
+running Django’s local web server
 
 python manage.py runserver
 
@@ -87,18 +85,38 @@ python manage.py migrate
 
 change the user:
 
-
 python manage.py createsuperuser
 
 nilecrocodile
 
-mohamed.reda.007007@gmail.com
-12345678
+mohamed.reda.007007@gmail.com 12345678
 
 ------------------------------------------------------------------------------
 after creating new model at notes, lets deal with the database:
 
 python manage.py makemigrations
+
+after showing the migration of which user who created the note, apply the default athe terminal as:
+
+1
+
+1
+
+then
+
+python manage.py migrate
+
+check:
+
+python manage.py shell
+
+from django.contrib.auth.models import User
+
+user = User.objects.get(pk=1)
+
+user
+
+user.notes.count()
 
 ------------------------------------------------------------------------------
 
@@ -117,11 +135,11 @@ mynote = Notes.objects.get(pk='1')
 
 mynote.title
 
-to access all database 
+to access all database
 
 mynote = Notes.objects.all()
 
- mynote[0].title
+mynote[0].title
 
 ------------------------------------------------------------------------------
 create new
@@ -130,19 +148,15 @@ new_note = Notes.objects.create(title='second',text='text2')
 
 new_note = Notes.objects.create(title='second2',text='text22')
 
-
-
 filter
 
 l= Notes.objects.filter(text__startswith='text')
 
 l= Notes.objects.filter(text__contains='what')
 
-
 not having the word:
 
 l= Notes.objects.exclude(text__contains='what')
-
 
 not have 'what' but have 'text'
 
