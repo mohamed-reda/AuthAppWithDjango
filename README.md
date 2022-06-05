@@ -8,6 +8,7 @@ It has:
 - creating a dynamic template
 - dealing with Django Admin
 - Django class-based files and static views, and so much more!
+- some best practices at dealing with the views 
 
 ## Screenshots
 
