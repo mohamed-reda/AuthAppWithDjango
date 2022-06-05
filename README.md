@@ -1,4 +1,4 @@
-## Note app With Django Framwork
+## Note app With Django Framework
 
 Ths is a working system that can create, edit, and list books per user with an authentication system.
 
