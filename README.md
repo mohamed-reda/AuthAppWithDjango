@@ -1,6 +1,6 @@
 ## Note app With Django Framework
 
-Ths is a working system that can create, edit, and list books per user with an authentication system.
+This is a working system that can create, edit, and list books per user with an authentication system.
 
 It has:
 - creating users and data 
